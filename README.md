@@ -49,8 +49,8 @@ Python (Scaler) | Java (Great Learning) | Oracle Gen AI | Power BI | Excel
 ## 📫 Connect
 
 📧 kishoremsofficial@gmail.com  
-🔗 LinkedIn: Add link  
-🔗 GitHub: Add link  
+🔗 LinkedIn: https://www.linkedin.com/in/kishorem8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+🔗 GitHub: https://github.com/repos?q=owner%3A%40me  
 
 ---
 
